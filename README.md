@@ -1,1 +1,1 @@
-this is quiz app
+this is quiz app to attempt quiz
